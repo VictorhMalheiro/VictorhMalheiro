@@ -2,7 +2,7 @@
 <a alt="Need a website, e-commerce or app?" href="https://virtualmake.net/">
 <img align="right" src="https://virtualmake.net/wp-content/uploads/2019/01/LogoVirtualMake-Gradiente-1024x1024.png" width="150"/></a>
 
-<a href="/users/follow?target=tgmarinho">
+<a href="https://github.com/VictorhMalheiro/">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/github/followers/VictorhMalheiro?label=Follow%20me&style=social"/>
 </a>
 
