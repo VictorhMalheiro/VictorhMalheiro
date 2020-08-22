@@ -1,4 +1,6 @@
-
+<div>
+  <img src="https://github.com/VictorhMalheiro/VictorhMalheiro/blob/master/GitHubCAPA.png?raw=true" />
+</div>
 <a alt="Need a website, e-commerce or app?" href="https://virtualmake.net/">
 <img align="right" src="https://virtualmake.net/wp-content/uploads/2019/01/LogoVirtualMake-Gradiente-1024x1024.png" width="150"/></a>
 
@@ -15,8 +17,7 @@
 </a>
 
 <br/>
-
-
-### Hey! 👋 How are you doing?
-Here you will find:
-- 💻 React native, ReactJS, NodeJS, TypeScript and PHP
+<pre>
+  Here you will find:
+  - 💻 React native, ReactJS, NodeJS, TypeScript and PHP
+</pre>
