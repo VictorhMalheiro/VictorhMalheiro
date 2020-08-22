@@ -1,5 +1,7 @@
 <div>
-  <img src="https://github.com/VictorhMalheiro/VictorhMalheiro/blob/master/GitHubCAPA.png?raw=true" />
+  <a target="_blank" href="https://www.linkedin.com/in/victormalheiro/">
+    <img src="https://github.com/VictorhMalheiro/VictorhMalheiro/blob/master/GitHubCAPA.png?raw=true" />
+  </a>
 </div>
 <a alt="Need a website, e-commerce or app?" href="https://virtualmake.net/">
 <img align="right" src="https://virtualmake.net/wp-content/uploads/2019/01/LogoVirtualMake-Gradiente-1024x1024.png" width="150"/></a>
